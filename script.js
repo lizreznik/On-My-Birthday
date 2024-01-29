@@ -1,7 +1,9 @@
-function ohSeven(){
-let firstBirthday = document.getElementById('birthday')
+function year2007(){
+document.getElementById('response-date').innerText= 'September 14 2007'
+document.getElementById('response-text').innerText= 'i was born'
 }
 
-function ohEight(){ 
-
+function year2008(){ 
+document.getElementById('response-date').innerText= 'September 14 2008'
+document.getElementById('response-text').innerText= 'on this date'
 }
