@@ -10,9 +10,14 @@ button {
 }
 h1 { 
     text-align: center;
+    font-family: 'Special Elite', system-ui;
 }
 .header { 
     margin: auto;
     background-color: #FFB8D1; 
     outline: 5px solid white;
+}
+.bg-hero-img {
+    background-image: url('https://picsum.photos/1300/500');
+    background-position: center center;
 }
