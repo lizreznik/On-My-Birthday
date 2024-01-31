@@ -1,4 +1,18 @@
 body{
-    background-color: pink !important;
+    background-color: #E7CEE3 !important;
     color: white;
+}
+button {
+    background-color: #E4B4C2 !important; 
+    align-items: center;
+    height: 50px;
+    width: 100px; 
+}
+h1 { 
+    text-align: center;
+}
+.header { 
+    margin: auto;
+    background-color: #FFB8D1; 
+    outline: 5px solid white;
 }
