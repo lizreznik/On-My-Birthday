@@ -22,3 +22,11 @@ h1 {
     font-size: 35px; 
     font-family: 'Special Elite', system-ui;
 }
+.response-text{ 
+    text-align: center;
+}
+img{ 
+    height: 20rem;
+    width: 25rem; 
+    align-items: center;
+}

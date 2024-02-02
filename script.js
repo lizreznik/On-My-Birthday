@@ -15,11 +15,11 @@ function year2009() {
 }
 
 function year2010() {
-    document.getElementById('response-date').innerText = 'September 14 2010'
+    document.getElementById('response-date').innerText = '2010'
     document.getElementById('response-text').innerText = 'on this date'
 }
 
 function year2011() {
-    document.getElementById('response-date').innerText = 'September 14 2011'
+    document.getElementById('response-date').innerText = '2011'
     document.getElementById('response-text').innerText = 'yurrr'
 }
