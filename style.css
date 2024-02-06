@@ -22,9 +22,10 @@ h1 {
     font-size: 35px; 
     font-family: 'Special Elite', system-ui;
 }
-.response-text{ 
+p { 
     text-align: center;
-    font-family: 'Comfortaa', sans-serif !important;
+    font-family: 'Quattrocento Sans', Arial;
+    font-size: larger;
 }
 img{ 
     height: 95%;
