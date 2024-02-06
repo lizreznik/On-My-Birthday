@@ -7,7 +7,7 @@ function year1814() {
 
 function year2007() {
     document.getElementById('response-date').innerText = '2007'
-    document.getElementById('response-text').innerText = 'i was born'
+    document.getElementById('response-text').innerText = 'On September 14, 2007, Elizabeth Reznik was born in a hospital in Manhattan, New York with her twin brother. She was born with blue eyes and blonde hair, while her brother was born with brown eyes and brown hair. She grew up in Brooklyn, New York and later moved to Marlboro, New Jersey in the sixth grade. She continues to live there now. She lives with her parents, sibling, and Scottish Terrior named Conan (who she named). A few of her favorite things to do is sleep, go out with her friends, and go to the gym. She is not a big fan of school but goes anyways in hopes of one day becoming a physcologist. For college, she hopes to get into a school close to home such as Monmouth University or Rutgers.'
     document.getElementById("pictures").src = 'IMG_0255 (1).jpg'
 }
 
