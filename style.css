@@ -24,9 +24,10 @@ h1 {
 }
 .response-text{ 
     text-align: center;
+    font-family: 'Comfortaa', sans-serif !important;
 }
 img{ 
-    height: 20rem;
-    width: 25rem; 
+    height: 95%;
+    width: 95%; 
     align-items: center;
 }
