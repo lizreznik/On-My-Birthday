@@ -20,7 +20,7 @@ function year1939() {
 function year2017() {
     document.getElementById('response-date').innerText = '2017'
     document.getElementById('response-text').innerText = 'Hurricane Florence, a slow-moving category one hurricane, made landfall on September 14, 2018, and over the next two days, it produced record-breaking rainfall across eastern North Carolina and northeastern South Carolina. Some locations recorded over 30 inches of rain, exceeding the highest single-storm rainfall amounts in the state. A station in Loris, SC recorded 23.63 inches of rain, setting a new state tropical cyclone rainfall record for South Carolina.'
-    document.getElementById("pictures").src = '_103445927_florence1400_15_09-nc.png'
+    document.getElementById("pictures").src = 'florence-history-track.jpg'
 }
 
 function year2009() {
